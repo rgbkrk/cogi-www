@@ -1,4 +1,4 @@
 cogi-www
 ========
 
-Website for Cogi Forest
+Quick imagery mockups for CogiForest LLC
